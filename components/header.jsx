@@ -16,7 +16,7 @@ async function Header() {
         <Link href="/">
           <Image
             src={"/logo.png"}
-            alt="Reflct Logo"
+            alt="MoodBoard Logo"
             width={200}
             height={60}
             className="h-10 w-auto object-contain"
